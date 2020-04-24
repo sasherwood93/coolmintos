@@ -1,2 +1,2 @@
-# coolmintos
+# Cool Mint OS
 Cool Mint OS
